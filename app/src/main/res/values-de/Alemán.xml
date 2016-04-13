@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Android Apps</string>
+    <string name="Nombre_Inicio">Willcommen</string>
+    <string name="Nombre_Boton">Betreten</string>
+</resources>
